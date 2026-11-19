@@ -83,6 +83,7 @@ The Excel workbook (`Food flow Sales Project.xlsx`) is organized into four clean
 ---
 
 ## 👨‍💻 Author
-**Soumya Ranjan Bhola**  
-*Data Analyst | Excel • SQL • Python • Power BI*  
-🔗 GitHub: [@soumyaranjan-data](https://github.com/soumyaranjan-data)
+**Name:** Soumya Ranjan Bhola <br>
+**Project:** Food-Flow-Sales-Dashboard <br> 
+**Email:** soumyaranjan0359@gmail.com <br>
+**Linkedin:** www.linkedin.com/in/bsoumyaranjan
