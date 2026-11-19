@@ -1,6 +1,6 @@
 # Food-Flow-Sales-Dashboard-Excel
 
-[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/soumyaranjan-data/Food-Flow-Sales-Dashboard)
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](outputs)
 [![Data Analysis](https://img.shields.io/badge/Domain-Food_Delivery_Analytics-orange?style=for-the-badge)](https://github.com/soumyaranjan-data/Food-Flow-Sales-Dashboard)
 [![Dataset Size](https://img.shields.io/badge/Records-197,430_Orders-blue?style=for-the-badge)](https://github.com/soumyaranjan-data/Food-Flow-Sales-Dashboard)
 
