@@ -1,7 +1,7 @@
 # Food-Flow-Sales-Dashboard-Excel
 
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://github.com/soumyaranjan-data/Food-Flow-Sales-Dashboard-Excel/blob/main/outputs/Food%20flow%20Sales%20Project.xlsx?raw=true)
-[![Data Analysis](https://img.shields.io/badge/Domain-Food_Delivery_Analytics-orange?style=for-the-badge)](https://github.com/soumyaranjan-data/Food-Flow-Sales-Dashboard)
+[![Data Analysis](https://img.shields.io/badge/Domain-Food_Delivery_Analytics-orange?style=for-the-badge)](https://github.com/soumyaranjan-data/Food-Flow-Sales-Dashboard-Excel/tree/main/outputs)
 [![Dataset Size](https://img.shields.io/badge/Records-197,430_Orders-blue?style=for-the-badge)](https://github.com/soumyaranjan-data/Food-Flow-Sales-Dashboard)
 
 An interactive end-to-end **Food Delivery Sales & Performance Analysis Dashboard** built in Microsoft Excel. Analyzing **197,430+ food delivery orders** across India (sourced from Swiggy order data), this project uncovers revenue growth patterns, customer rating distributions, dietary preferences (Veg vs. Non-Veg), and top-performing states and cities.
