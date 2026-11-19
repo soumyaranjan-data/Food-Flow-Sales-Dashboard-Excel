@@ -6,7 +6,7 @@
 
 An interactive end-to-end **Food Delivery Sales & Performance Analysis Dashboard** built in Microsoft Excel. Analyzing **197,430+ food delivery orders** across India (sourced from Swiggy order data), this project uncovers revenue growth patterns, customer rating distributions, dietary preferences (Veg vs. Non-Veg), and top-performing states and cities.
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](dashboard/food_flow_dashboard.png)
 
 ---
 
